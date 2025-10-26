@@ -2,4 +2,4 @@
 
 create by *zeon-j1*
 
-also, the **installer.sh** is for people who want to install the modpacks on their server ***NOT FUNCTIONAL***
+also, the **installer.sh** is for people who want to install the modpacks on their server, which is ***NOT FUNCTIONAL*** yet .
