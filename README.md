@@ -8,4 +8,8 @@ also, the **installer.sh/.bat** is for people who want to install the modpacks o
 
 ### 100% keyboards (w/ numpad)
 
-### 80% keyboards (w/o numpad or mac laptops)
+### 70-80% keyboards (w/o numpad or most mac laptops)
+
+### 70% or smaller
+
+no screw you, you are weird for having such a small keyboard for gaming- no just in general
