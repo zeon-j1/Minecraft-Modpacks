@@ -2,11 +2,9 @@
 
 create by *zeon-j1*
 
-contact me for- no, figure it out
-
-also, the **installer.sh/.bat** is for people who want to install the modpacks on their server, which is ***NOT FUNCTIONAL*** yet .
-
 ## recommended keybinds
+
+(definitely will complete)
 
 ### 100% keyboards (w/ numpad)
 
@@ -14,4 +12,4 @@ also, the **installer.sh/.bat** is for people who want to install the modpacks o
 
 ### 70% or smaller
 
-no screw you, you are weird for having such a small keyboard for gaming- no just in general
+no
